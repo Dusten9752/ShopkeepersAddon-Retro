@@ -53,13 +53,6 @@
             <systemPath>D:/Github/APIs/ProtocolLib.jar</systemPath>
         </dependency>
         <dependency>
-            <groupId>Vault</groupId>
-            <artifactId>Vault</artifactId>
-            <scope>system</scope>
-            <version>1.0</version>
-            <systemPath>D:/Github/APIs/Vault.jar</systemPath>
-        </dependency>
-        <dependency>
             <groupId>PacketWrapper</groupId>
             <artifactId>PacketWrapper</artifactId>
             <scope>system</scope>
